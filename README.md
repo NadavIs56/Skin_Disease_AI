@@ -1,6 +1,5 @@
 #  <p align ="center" height="40px" width="40px"> Skin Lesion Diagnosis using Machine Learning </p>
-##     <p align = "center"> Full Stack Developer | Programming YouTuber | Software Engineer </p>
-
+##     <p align = "left"> Introduction </p>
 
 Dermatological issues are increasingly common in family clinic visits, and accurate diagnosis is essential for successful treatment outcomes. Our project aims to create a system utilizing machine learning and image processing analysis to automatically diagnose six different types of skin lesions.
 Dataset
