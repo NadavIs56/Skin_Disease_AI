@@ -1,5 +1,11 @@
 #  <p align ="center" height="40px" width="40px"> Skin Disease AI </p>
 ##  <p align ="center" height="40px" width="40px"> Skin Lesion Diagnosis using Machine Learning </p>
+
+<p align ="center">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc3%2FPython-logo-notext.svg%2F1200px-Python-logo-notext.svg.png&tbnid=GoXB3tma5wjkyM&vet=12ahUKEwi2orHUpIH-AhX7pycCHRyDDJQQMygAegUIARDlAQ..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPython_(programming_language)&docid=3wRBXLyvECcz0M&w=1200&h=1315&itg=1&q=python&ved=2ahUKEwi2orHUpIH-AhX7pycCHRyDDJQQMygAegUIARDlAQ" width="32" height="32" /></a>
+</p>
+
+
 ###     <p align = "left"> Introduction </p>
 
 Dermatological issues are increasingly common in family clinic visits, and accurate diagnosis is essential for successful treatment outcomes. Our project aims to create a system utilizing machine learning and image processing analysis to automatically diagnose six different types of skin lesions.
