@@ -1,5 +1,8 @@
+"""
+    This file used to show the distribution of the different skin lesions' types through the train, validation and test sets.
+"""
 import numpy as np
-# import tensorflow.keras as K
+import tensorflow.keras as K
 import pickle
 import seaborn as sns
 from sklearn.metrics import (ConfusionMatrixDisplay, confusion_matrix, classification_report)
