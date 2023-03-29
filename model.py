@@ -1,3 +1,6 @@
+"""
+  This file used to build our model
+"""
 import pickle
 from keras import Model
 import tensorflow.keras as K
