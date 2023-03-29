@@ -1,3 +1,6 @@
+"""
+    This file used to add augmented images to out dataset for classes with lack of images.
+"""
 import pickle
 import numpy as np
 from tqdm import tqdm
