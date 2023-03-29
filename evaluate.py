@@ -1,3 +1,8 @@
+"""
+    This file used to evaluate our model for fine-tuning and better understanding.
+    It shows the cunfusion matrix, accuracy & loss histogram and classification report.
+"""
+
 import numpy as np
 import tensorflow.keras as K
 import pickle
