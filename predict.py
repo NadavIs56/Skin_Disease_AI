@@ -1,3 +1,6 @@
+"""
+    This file used to load our model and predict batch of images from a directory.
+"""
 import os
 import numpy as np
 from tqdm import tqdm
