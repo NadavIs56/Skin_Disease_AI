@@ -23,10 +23,10 @@ Our best model achieved an accuracy of 87% on the test set. We also evaluated ou
 ##     <p align = "left"> Our project consists of the following files: </p>
 •	augmentation.py: Code for adding augmented images to our dataset for classes with a lack of images.
 
-•	evaluate.py: Code for evaluating our model for fine-tuning and better understanding. It shows the confusion matrix, accuracy and loss histograms, and classification   report.
+•	evaluate.py: Code for evaluating our model for fine-tuning and better understanding. It shows the confusion matrix, accuracy and loss histograms, and classification  report.
 
 •	model.py: The code we used to build our Xception model for skin lesion diagnosis.
 
 •	predict.py: Code for prediction a batch of images from a directory, using our model. 
 
-•	preprocessing.py: This code loads the entire dataset, perform the required image preprocessing, and splits the images into train, validation and test sets
+•	preprocessing.py: This code loads the entire dataset, perform the required image preprocessing, and splits the images into train, validation and test sets.
