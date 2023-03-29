@@ -1,5 +1,5 @@
 """
-    This file used to add augmented images to out dataset for classes with lack of images.
+    This file used to add augmented images to our dataset for classes with lack of images according to the output of the "sets_visualization".
 """
 import pickle
 import numpy as np
