@@ -10,8 +10,8 @@ We created a large image dataset for six skin lesion types by combining public d
 We used the Xception architecture to build our skin lesion diagnosis model. Our model was trained on the entire dataset, and we used data augmentation to generate additional images for classes with a lack of images.
 Our best model achieved an accuracy of 87% on the test set. We also evaluated our model using various metrics, including the confusion matrix, accuracy and loss histograms, and classification report.
 
-Usage
-Our project consists of the following files:
+
+##     <p align = "left"> Our project consists of the following files: </p>
 •	augmentation.py: Code for adding augmented images to our dataset for classes with a lack of images.
 •	evaluate.py: Code for evaluating our model for fine-tuning and better understanding. It shows the confusion matrix, accuracy and loss histograms, and classification report.
 •	model.py: The code we used to build our Xception model for skin lesion diagnosis.
