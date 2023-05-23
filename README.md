@@ -12,7 +12,7 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">   <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="32" height="32" /></a> 
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer">   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="32" height="32" /></a> 	
 </p>
-<br>
+
 ###     <p align = "center"> You can access the web version at https://skin-disease-ai.streamlit.app/ </p>
 ####     <p align = "center"> I would appreciate hearing your thoughts on it. Thank you! </p>
 
