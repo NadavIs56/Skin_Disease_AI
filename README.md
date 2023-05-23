@@ -15,7 +15,7 @@
 
 ###     <p align = "center"> You can access the web version at https://skin-disease-ai.streamlit.app/ </p>
 ####     <p align = "center"> I would appreciate hearing your thoughts on it. Thank you! </p>
-	
+
 ##     <p align = "left"> Introduction </p>
 
 Dermatological issues are increasingly common in family clinic visits, and accurate diagnosis is essential for successful treatment outcomes. Our project aims to create a system utilizing machine learning and image processing analysis to automatically diagnose six different types of skin lesions.
