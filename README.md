@@ -14,7 +14,7 @@
 </p>
            
 ###     <p align = "center"> You can access the web version at https://skin-disease-ai.streamlit.app/ </p>
-####     <p align = "center"> I would appreciate hearing your thoughts on it. Thank you! </p>
+I would appreciate hearing your thoughts on it. Thank you! 
 
 ##     <p align = "left"> Introduction </p>
 
