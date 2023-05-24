@@ -10,7 +10,8 @@
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">   <img src="https://e7.pngegg.com/pngimages/309/384/png-clipart-scikit-learn-python-computer-icons-scikit-machine-learning-learning-text-orange.png" width="32" height="32" /></a>  
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">   <img src="https://numpy.org/images/logo.svg" width="32" height="32" /></a>  
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">   <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="32" height="32" /></a> 
-<a href="https://streamlit.io/" target="_blank" rel="noreferrer">   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="32" height="32" /></a> 	
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer">   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="32" height="32" /></a> 
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" width="32" height="32" /></a> 
 </p>
            
 ###     <p align = "center"> You can access the web version at https://skin-disease-ai.streamlit.app/ </p>
