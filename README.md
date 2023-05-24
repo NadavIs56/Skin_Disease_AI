@@ -41,5 +41,7 @@ Our best model achieved an accuracy of 87% on the test set. We also evaluated ou
 
 •	predict.py: Code for prediction a batch of images from a directory, using our model. 
 
+<br>
 
+### <p align ="center"> Do remember to star ⭐ the repository if you like what you see!</p>
 
