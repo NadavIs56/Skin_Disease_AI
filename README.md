@@ -17,30 +17,40 @@
 ###     <p align = "center"> You can access the web version at https://skin-disease-ai.streamlit.app/ </p>
 ####     <p align = "center"> I would appreciate hearing your thoughts on it. Thank you! </p>
 
-##     <p align = "left"> Introduction </p>
+<br>
 
-Dermatological issues are increasingly common in family clinic visits, and accurate diagnosis is essential for successful treatment outcomes. Our project aims to create a system utilizing machine learning and image processing analysis to automatically diagnose six different types of skin lesions.
+#### <p align = "center"> Welcome to Skin Disease AI, an advanced system designed to recognize and diagnose skin diseases using machine learning and image processing techniques. This project offers an AI solution that can significantly assist in the diagnostic process of six different types of skin lesions.</p>
 
-##     <p align = "left"> Dataset </p>
-We created a large image dataset for six skin lesion types by combining public dermatologist datasets with images that we collected ourselves. Our dataset contains a total of 1,952 images.
+<br>
 
-##     <p align = "left"> Model </p>
-We used the Xception architecture to build our skin lesion diagnosis model. Our model was trained on the entire dataset, and we used data augmentation to generate additional images for classes with a lack of images.
-Our best model achieved an accuracy of 87% on the test set. We also evaluated our model using various metrics, including the confusion matrix, accuracy and loss histograms, and classification report.
+##     <p align = "left"> 🎯 Introduction </p>
 
+Skin conditions are a common reason for clinic visits, with an accurate diagnosis being crucial for effective treatment. This project presents a robust machine learning system that analyzes images to identify and diagnose different types of skin lesions.
 
-##     <p align = "left"> Our project consists of the following files: </p>
-•	preprocessing.py: This code loads the entire dataset, perform the required image preprocessing, and splits the images into train, validation and test sets.
+<br>
 
-•	sets_visualization.py: This code used to show the distribution of the different skin lesions' types through the train, validation and test sets.
+##     <p align = "left"> 📚 Dataset </p>
+The dataset for this project consists of a total of 1,952 images. These images represent six types of skin lesions, gathered from public dermatologist datasets and self-collected sources.
 
-•	augmentation.py: Code for adding augmented images to our dataset for classes with a lack of images.
+<br>
 
-•	model.py: The code we used to build our Xception model for skin lesion diagnosis.
+##     <p align = "left"> 🤖 Model </p>
+We utilized the Xception architecture to create our skin lesion diagnosis model. Trained on the complete dataset, we enhanced our training with data augmentation for classes with fewer images. Our model achieved an impressive 87% accuracy on the test set. In addition, we assessed our model using various metrics, including the confusion matrix, accuracy and loss histograms, and a comprehensive classification report.
 
-•	evaluate.py: Code for evaluating our model for fine-tuning and better understanding. It shows the confusion matrix, accuracy and loss histograms, and classification  report.
+<br>
 
-•	predict.py: Code for prediction a batch of images from a directory, using our model. 
+##     <p align = "left"> 📂 Repository Structure </p>
+ -  'preprocessing.py': This code loads the entire dataset, perform the required image preprocessing, and splits the images into train, validation and test sets.
+
+ -  'sets_visualization.py': This code used to show the distribution of the different skin lesions' types through the train, validation and test sets.
+
+ -  'augmentation.py': Code for adding augmented images to our dataset for classes with a lack of images.
+
+ -  'model.py': The code we used to build our Xception model for skin lesion diagnosis.
+
+ -  'evaluate.py': Code for evaluating our model for fine-tuning and better understanding. It shows the confusion matrix, accuracy and loss histograms, and classification  report.
+
+ -  'predict.py': Code for prediction a batch of images from a directory, using our model. 
 
 <br>
 
