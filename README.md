@@ -14,7 +14,9 @@
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" width="32" height="32" /></a> 
 </p>
 
+<br><br>
 ### <p align ="center"> Do remember to star ⭐ the repository if you like what you see!</p>
+<br><br>
            
 ###     <p align = "center"> You can access the web version at https://teledermatologis-ai.streamlit.app/ </p>
 ####     <p align = "center"> I would appreciate hearing your thoughts on it. Thank you! </p>
