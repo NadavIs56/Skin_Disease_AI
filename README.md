@@ -45,18 +45,12 @@ We utilized the Xception architecture to create our skin lesion diagnosis model.
 
 ##     <p align = "left"> 📂 Repository Structure </p>
  -  'preprocessing.py': This code loads the entire dataset, perform the required image preprocessing, and splits the images into train, validation and test sets.
-
  -  'sets_visualization.py': This code used to show the distribution of the different skin lesions' types through the train, validation and test sets.
-
  -  'augmentation.py': Code for adding augmented images to our dataset for classes with a lack of images.
-
  -  'model.py': The code we used to build our Xception model for skin lesion diagnosis.
-
  -  'evaluate.py': Code for evaluating our model for fine-tuning and better understanding. It shows the confusion matrix, accuracy and loss histograms, and classification  report.
-
  -  'predict.py': Code for prediction a batch of images from a directory, using our model. 
 
 <br>
 
-### <p align ="center"> Do remember to star ⭐ the repository if you like what you see!</p>
 
