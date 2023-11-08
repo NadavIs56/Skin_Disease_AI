@@ -34,12 +34,12 @@ Skin conditions are a common reason for clinic visits, with an accurate diagnosi
 <br>
 
 ##     <p align = "left"> 📚 Dataset </p>
-The dataset for this project consists of a total of 1,952 images. These images represent six types of skin lesions, gathered from public dermatologist datasets and self-collected sources.
+The dataset for this project consists of a total of 1,952 images. These images represent 6 types of skin lesion classes and 1 non-skin lesion class, gathered from public dermatologist datasets and self-collected sources.
 
 <br>
 
 ##     <p align = "left"> 🤖 Model </p>
-We utilized the Xception architecture to create our skin lesion diagnosis model. Trained on the complete dataset, we enhanced our training with data augmentation for classes with fewer images. Our model achieved an impressive 87% accuracy on the test set. In addition, we assessed our model using various metrics, including the confusion matrix, accuracy and loss histograms, and a comprehensive classification report.
+We utilized the Xception architecture to create our skin lesion diagnosis model. Trained on the complete dataset, we enhanced our training with data augmentation for classes with fewer images. Our model achieved an impressive 92% accuracy on the test set. In addition, we assessed our model using various metrics, including the confusion matrix, accuracy and loss histograms, and a comprehensive classification report.
 
 <br>
 
