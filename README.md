@@ -34,7 +34,7 @@ Skin conditions are a common reason for clinic visits, with an accurate diagnosi
 <br>
 
 ##     <p align = "left"> 📚 Dataset </p>
-The dataset for this project consists of a total of 1,952 images. These images represent 6 types of skin lesion classes and 1 non-skin lesion class, gathered from public dermatologist datasets and self-collected sources.
+The dataset for this project consists of a total of 1,657 images. These images represent 6 types of skin lesion classes and 1 non-skin lesion class, gathered from public dermatologist datasets and self-collected sources.
 
 <br>
 
