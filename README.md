@@ -16,6 +16,9 @@
 
 <br><br>
 ### <p align ="center"> Do remember to star ⭐ the repository if you like what you see!</p>
+<p align="center">
+  <a href="https://github.com/NadavIs56/Skin_Disease_AI/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/NadavIs56/Skin_Disease_AI"></a>
+</p>
 <br><br>
            
 ###     <p align = "center"> You can access the web version at https://teledermatologis-ai.streamlit.app/ </p>
