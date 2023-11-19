@@ -60,3 +60,10 @@ We utilized the Xception architecture to create our skin lesion diagnosis model.
 
 ### <p align ="center"> Do remember to star ⭐ the repository if you like what you see!</p>
 
+---
+
+
+<div align="center">
+  Made with ❤️ by <a href="https://github.com/NadavIs56">Nadav Ishai</a>
+</div>
+
