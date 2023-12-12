@@ -18,6 +18,7 @@
 <br><br>
 ### <p align ="center"> Do remember to star ⭐ the repository if you like what you see!</p>
 <p align="center">
+  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/> 
   <a href="https://github.com/NadavIs56/Skin_Disease_AI/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/NadavIs56/Skin_Disease_AI"></a>
 </p>
 <br><br>
