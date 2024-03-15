@@ -1,6 +1,4 @@
-"""
-    This file used to load the entire dataset, perform the require preprocessing and split the data into train, validation and test sets
-"""
+
 
 import os
 import pickle
