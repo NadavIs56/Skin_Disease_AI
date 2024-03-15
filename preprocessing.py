@@ -1,6 +1,7 @@
 """
     This file used to load the entire dataset, perform the require preprocessing and split the data into train, validation and test sets
 """
+
 import os
 import pickle
 import numpy as np
@@ -11,7 +12,6 @@ import matplotlib.pyplot as plt
 from tensorflow.keras.preprocessing import image
 from sklearn.model_selection import StratifiedShuffleSplit
 from tensorflow.keras.preprocessing.image import img_to_array
-
 
 img_path = os.listdir('dataset_dir')
 
