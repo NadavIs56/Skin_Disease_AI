@@ -24,6 +24,7 @@
 <br><br>
            
 ###     <p align = "center"> You can access the web version at https://teledermatologis-ai.streamlit.app/ </p>
+###     <p align = "center"> Check out the project paper at https://ieeexplore.ieee.org/abstract/document/10402645 </p>
 ####     <p align = "center"> I would appreciate hearing your thoughts on it. Thank you! </p>
 
 <br>
